@@ -1,0 +1,98 @@
+[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h[?25l[1A[81G[?25h]0;:/c/Users/BAG20/Desktop/Data Analytic & School/Temporary_add_to_version_control[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/Desktop/Data Analytic & School/Temporary_add_to_version_control[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[?25l
+[0K[?25h]0;:/c/Users/BAG20[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd ~[0K[?25h[?25l$ cd[0K[6G[?25h[?25l$ cd /[0K[?25hd[0Ke[0Ks[0K[?25l$ cd /de[0K[?25h[?25l$ cd /d[0K[?25h[?25l$ cd /[0K[?25hD[0Ke[0Ks[0Kk[0Kt[0Ko[0Kp[0K[?25l
+bash: cd: /Desktop: No such file or directory[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~[0m[0K
+$[0K[3G[?25h[?25l$ d[0K[?25he[0Ks[0Kt[0K[?25l$ des[0K[?25h[?25l$ de[0K[?25h[?25l$ d[0K[?25h[?25l$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd d[0K[?25he[0Ks[0Kk[0Kt[0Kp[0K[?25l
+bash: cd: desktp: No such file or directory[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd d[0K[?25he[0Ks[0Kk[0Kt[0Ko[0Kp[0K[?25l
+[0K[?25h]0;:/c/Users/BAG20/desktop[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ d[0K[?25hc[0K[?25l$ d[0K[?25h[?25l$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd d[0K[?25he[0Ks[0Kk[0Kt[0Ko[0Kp[0K/[0Kd[0K[?25la[0K[15G[?25h[16G[?25l$ cd desktop/dat[0K[?25ha[0K[19G[?25l$ cd desktop/data a[0K[?25hn[0Ka[0Kl[0Ky[0Kt[0Ki[0Kc[0K[28G[?25l$ cd desktop/data analytic &[0K[?25h[30G[?25l$ cd desktop/data analytic & s[0K[?25h[?25lc[0K[31G[?25h[32G[?25l$ cd desktop/data analytic & sch[0K[?25ho[0Ko[0Kl[0K/[0Kt[0Ke[0K[?25l$ cd desktop/data analytic & school/t[0K[?25h[?25l$ cd desktop/data analytic & school/[0K[38G[?25h[37G[?25l$ cd desktop/data analytic & school[0K[?25h[?25l
+[0K[?25h[1] 15640bash: cd: too many arguments[0K[?25l
+[0K[?25hbash: school: command not found[0K[?25l
+[0K[?25h[1]+  Exit 1                  cd desktop/data analytic[0K[?25l
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd d[0K[?25ha[0Kt[0Ka[0K[11G[?25l$ cd data a[0K[?25hn[0Ka[0Kl[0Ky[0Kt[0Ki[0Kc[0K[?25l
+bash: cd: too many arguments[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hi[0Ks[0Kt[0K[?25l
+[0K[?25hbash: list: command not found[0K[?25l
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25h[?25l
+[0K[?25hbash: l: command not found[0K[?25l
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hm[0K[?25l$ c[0K[?25hd[0K[6G[?25l$ cd "C:\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control"[0K[?25h[?25l$ cd "C:\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[?25h[84G[83G[82G[81G[80G[79G[77G[76G[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[63G[62G[60G[59G[58G[57G[55G[54G[53G[52G[51G[50G[49G[47G[46G[45G[44G[43G[42G[41G[40G[39G[37G[36G[34G[33G[31G[30G[29G[28G[26G[25G[24G[23G[22G[20G[19G[18G[16G[15G[14G[13G[12G[11G[10G[9G[10G[11G[12G[13G[14G[15G[?25l$ cd "C:\User\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[14G[?25h[?25l$ cd "C:\Use\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[13G[?25h[?25l$ cd "C:\Us\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[12G[?25h[?25l$ cd "C:\U\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[11G[?25h[?25l$ cd "C:\\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[10G[?25h[?25l$ cd "C:\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[9G[?25h[?25l$ cd "C\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[9G[?25h[8G[?25l$ cd "\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[7G[?25h[?25l$ cd \BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[7G[?25h[6G[?25l$ cd\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[5G[?25h[?25l$ cdBAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[5G[?25h[?25l$ cd BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[6G[?25h[?25l
+[0K[?25h[1] 7720[0K[?25l
+bash: cd: too many arguments[0K
+[0K[?25hbash: SchoolTemporary_add_to_version_control: command not found[0K[?25l
+[1]+  Exit 1                  cd BAG20\Desktop\Data Analytic[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd d[0K[?25he[0Ks[0Kt[0K[?25l$ cd des[0K[?25hk[0Kt[0Ko[0Kp[0K[?25l
+bash: cd: desktop: No such file or directory[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[?25l
+[0K[?25h]0;:/c/Users/BAG20[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd d[0K[?25he[0Ks[0Kk[0Kt[0Ko[0Kp[0K[?25l
+[0K[?25h]0;:/c/Users/BAG20/desktop[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hd[0K[?25l
+[0K[?25hbash: ld: command not found[0K[?25l
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25h[?25lbash: ls: command not found[0K[1G[?25h[?25l
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ p[0K[?25hw[0Kd[0K[?25l
+/c/Users/BAG20/desktop[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd "C:\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control"[0K[?25h[85G[?25l$ cd "C:\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[?25h[84G[83G[82G[81G[80G[78G[77G[76G[74G[73G[72G[71G[70G[69G[68G[67G[66G[65G[64G[62G[61G[60G[59G[58G[57G[56G[55G[54G[52G[51G[49G[48G[47G[46G[45G[44G[43G[42G[41G[40G[39G[38G[37G[36G[34G[33G[32G[31G[30G[29G[28G[27G[26G[25G[24G[23G[22G[21G[20G[19G[17G[15G[14G[13G[12G[11G[9G[8G[7G[6G[7G[8G[?25l$ cd ":\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[8G[?25h[7G[?25l$ cd "\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[7G[?25h[?25l$ cd \Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[6G[?25h[?25l$ cd c\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[7G[?25h[6G[?25l$ cd /c\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[7G[?25h[?25l$ cd c\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[6G[?25h[?25l$ cd \c\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[7G[?25h[?25l$ cd c\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[6G[?25h[?25l$ cd /c\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[7G[?25h[8G[9G[8G[?25l$ cd /\Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[7G[?25h[?25l$ cd /Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[7G[?25h[?25l$ cd /cUsers\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[8G[?25h[?25l$ cd /c.Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[9G[?25h[?25l$ cd /cUsers\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[8G[?25h[?25l$ cd /c/Users\BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[9G[?25h[10G[11G[12G[13G[14G[?25l$ cd /c/UsersBAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[14G[?25h[?25l$ cd /c/Users/BAG20\Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[15G[?25h[16G[17G[18G[19G[20G[?25l$ cd /c/Users/BAG20Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[20G[?25h[?25l$ cd /c/Users/BAG20/Desktop\Data Analytic & School\Temporary_add_to_version_control[0K[21G[?25h[22G[23G[24G[25G[26G[27G[28G[?25l$ cd /c/Users/BAG20/DesktopData Analytic & School\Temporary_add_to_version_control[0K[28G[?25h[?25l$ cd /c/Users/BAG20/Desktop/Data Analytic & School\Temporary_add_to_version_control[0K[29G[?25h[30G[31G[32G[33G[34G[35G[36G[37G[38G[39G[40G[41G[43G[44G[45G[47G[48G[49G[50G[51G[52G[53G[52G[51G[?25l$ cd /c/Users/BAG20/Desktop/Data Analytic & SchoolTemporary_add_to_version_control[0K[51G[?25h[?25l$ cd /c/Users/BAG20/Desktop/Data Analytic & School.Temporary_add_to_version_control[0K[52G[?25h[?25l$ cd /c/Users/BAG20/Desktop/Data Analytic & School./Temporary_add_to_version_control[0K[53G[?25h[52G[?25l$ cd /c/Users/BAG20/Desktop/Data Analytic & School/Temporary_add_to_version_control[0K[52G[?25h[51G[?25l
+[0K[?25h[1] 14704[0K[?25l
+bash: cd: too many arguments[0K
+[0K[?25hbash: School/Temporary_add_to_version_control: No such file or directory[0K[?25l
+[1]+  Exit 1                  cd /c/Users/BAG20/Desktop/Data Analytic[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[?25l$ cd d[0K[?25he[0Ks[0Kk[0Kt[0Ko[0Kp[0K[?25l
+bash: cd: desktop: No such file or directory[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ d[0K[?25hc[0K[?25l$ d[0K[?25h[?25l$[0K[3G[?25h[?25l$ c[0K[?25hd[0K[6G[5G[?25l$ cd/[0K[?25hd[0Ka[0Kt[0Ka[0K[11G[?25l$ cd/data a[0K[?25hn[0Ka[0Kl[0Ky[0Kt[0Ki[0Kc[0K[20G[?25l$ cd/data analytic $[0K[?25h[?25l$ cd/data analytic[0K[20G[?25h[?25l$ cd/data analytic &[0K[?25h[22G[?25l$ cd/data analytic & s[0K[?25hc[0Kh[0Ko[0Ko[0Kl[0K[?25l
+[0K[?25h[1] 3164[0K[?25l
+bash: cd/data: No such file or directory[0K
+[0K[?25hbash: school: command not found[0K[?25l
+[1]+  Exit 127                cd/data analytic[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ l[0K[?25hs[0K[?25l
+[0K[?25hbash: ls: command not found[0K[?25l
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ p[0K[?25hw[0Kd[0K[?25l
+/c/Users/BAG20/desktop[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[3G[?25h[?25l$ p[0K[?25hw[0Kd[0K[?25l
+/c/Users/BAG20/desktop[0K
+[0K[?25h[?25l
+[0;32mBAG20@DESKTOP-BCIS84O [0;35m [0;33m~/desktop[0m[0K
+$[0K[1G[?25h[3G
